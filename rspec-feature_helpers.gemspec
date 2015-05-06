@@ -5,7 +5,7 @@ require 'rspec/feature_helpers/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "rspec-feature_helpers"
-  spec.version       = Rspec::FeatureHelpers::VERSION
+  spec.version       = RSpec::FeatureHelpers::VERSION
   spec.authors       = ["Attila Györffy"]
   spec.email         = ["attila@attilagyorffy.com"]
 

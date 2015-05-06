@@ -1,6 +1,6 @@
 require "rspec/feature_helpers/version"
 
-module Rspec
+module RSpec
   module FeatureHelpers
     # Your code goes here...
   end

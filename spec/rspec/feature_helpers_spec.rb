@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-describe Rspec::FeatureHelpers do
+describe RSpec::FeatureHelpers do
   it 'has a version number' do
-    expect(Rspec::FeatureHelpers::VERSION).not_to be nil
+    expect(RSpec::FeatureHelpers::VERSION).not_to be nil
   end
 
   it 'does something useful' do
